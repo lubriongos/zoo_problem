@@ -25,7 +25,7 @@ node zoo_problem.js
 ```
 
 ## Files
-* zoo_problem.js: Contains the solution code.
-* tests_zoo_problem.js: Coming soon
-* test_animals.txt: Test data file for animals.
-* test_food.txt: Test data file for food items.
+* zoo_problem.js: Contains the solution code, including functions to read data from files, map animals to their corresponding food items, and find extra food.
+* tests_zoo_problem.js: Contains tests for the solution, ensuring its correctness and reliability.
+* test_animals.txt: Data of the example of the problem to use them in the test
+* test_food.txt: Data of the example of the problem to use them in the test
